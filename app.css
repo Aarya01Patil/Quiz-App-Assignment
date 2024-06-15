@@ -1,0 +1,30 @@
+:root{
+    background-color: #ecf5ff;
+    font-size: 62.5%;
+}
+*{
+    box-sizing: border-box;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    margin: 0;
+    padding-bottom: 0;
+    color: #333;
+}
+h1,
+h2.
+h3,
+h4 {
+    margin-bottom: 1rem;
+}
+h1{
+    font-size: 5.4rem;
+    color:antiquewhite;
+    margin-bottom:5rem ;
+}
+h1 > span {
+    font-size: 2.4 rem;
+    font-weight: 500;
+}
+h2 {
+    font-size: 4.2 rem;
+    
+}
